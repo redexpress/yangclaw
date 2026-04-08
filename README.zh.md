@@ -2,6 +2,11 @@
 
 个人 AI 助手，支持工具调用。
 
+<p align="center">
+  <a href="README.md">English</a> |
+  <a href="README.zh.md">简体中文</a>
+</p>
+
 ## 开始使用
 
 ```bash
