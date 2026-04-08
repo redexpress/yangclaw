@@ -1,0 +1,45 @@
+{
+  "name": "yangclaw",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@ai-sdk/anthropic": "^3.0.64",
+    "@ai-sdk/openai": "^3.0.49",
+    "@ai-sdk/react": "^3.0.0",
+    "@assistant-ui/react": "^0.12.21",
+    "@assistant-ui/react-ai-sdk": "^1.3.16",
+    "@assistant-ui/react-markdown": "^0.12.7",
+    "@mariozechner/pi-agent-core": "^0.64.0",
+    "@mariozechner/pi-ai": "^0.64.0",
+    "@mariozechner/pi-coding-agent": "^0.64.0",
+    "@nlux/core": "^2.17.1",
+    "@nlux/react": "^2.17.1",
+    "@nlux/themes": "^2.17.1",
+    "@sinclair/typebox": "^0.34.49",
+    "ai": "^6.0.141",
+    "assistant-ui": "^0.0.86",
+    "dotenv": "^17.3.1",
+    "next": "14.2.33",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-markdown": "^10.1.0",
+    "remark-gfm": "^4.0.1",
+    "undici": "^7.24.7",
+    "yaml": "^2.8.3",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.59.1",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "sass": "^1.80.0",
+    "typescript": "^5"
+  }
+}

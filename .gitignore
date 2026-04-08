@@ -1,0 +1,35 @@
+# Dependencies
+node_modules
+
+# Next.js
+.next/
+out/
+
+# Build
+dist/
+tsconfig.tsbuildinfo
+
+# Environment
+.env
+.env.local
+.env.*.local
+yangclaw.yaml
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+
+# pnpm
+.pnpm-store/
+
+# Session data
+.data/
